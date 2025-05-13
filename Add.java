@@ -6,4 +6,3 @@ public class Add {
 	System.out.println("Addition :"+c);
 	}
 	}
-	Add
